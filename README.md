@@ -1,14 +1,14 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub
 
-Me chamo Alysson e sou apaixonado(a) por tecnologia e desenvolvimento de software. 🚀
+Me chamo Alysson e sou apaixonado por tecnologia e desenvolvimento de software. 🚀
 
-Atualmente, não estou atuando profissionalmente na área de programação, mas estou em constante aprendizado e evolução. No momento, estou focado(a) nos estudos de **lógica de programação**, construindo uma base sólida para seguir minha jornada rumo ao desenvolvimento full stack.
+Atualmente, não estou atuando profissionalmente na área de programação, mas estou em constante aprendizado e evolução. No momento, estou focado nos estudos de **lógica de programação**, construindo uma base sólida para seguir minha jornada rumo ao desenvolvimento full stack.
 
 ## 💡 Sobre mim
 
 - 💻 Amo tudo que envolve tecnologia
 - 📚 Estou estudando lógica de programação e dando meus primeiros passos na área
-- 🌱 Sempre em busca de aprender mais e me desenvolver como programador(a)
+- 🌱 Sempre em busca de aprender mais e me desenvolver como programador
 - ⚙️ Estou construindo projetos simples para praticar e fixar o conhecimento
 
 
