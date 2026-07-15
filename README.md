@@ -8,7 +8,7 @@ Com experiência prévia atuando no desenvolvimento de software e também com in
 
 - 🛡️ Focado nos estudos de **Cibersegurança** e segurança ofensiva.
 - 💻 Possuo background profissional em desenvolvimento e infraestrutura.
-- 🕵️‍♂️ Dedicando meu tempo a aprender novas ferramentas de segurança, explorar vulnerabilidades e entender a fundo redes e sistemas.
+- 🕵️ Dedicando meu tempo a aprender novas ferramentas de segurança, explorar vulnerabilidades e entender a fundo redes e sistemas.
 - ⚙️ Estou construindo projetos para praticar e fixar o conhecimento
 
 
