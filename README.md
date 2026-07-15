@@ -1,24 +1,29 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub
 
-Me chamo Alysson e sou apaixonado por tecnologia e desenvolvimento de software. 🚀
+Me chamo Alysson e sou um desenvolvedor de software em transição de carreira para a área de **Cibersegurança**. 🚀
 
-Atualmente, não estou atuando profissionalmente na área de programação, mas estou em constante aprendizado e evolução. No momento, estou focado nos estudos de **lógica de programação**, construindo uma base sólida para seguir minha jornada rumo ao desenvolvimento full stack.
+Com experiência prévia atuando no desenvolvimento de software e também com infraestrutura e automação, hoje estou direcionando todo o meu foco para a segurança da informação. Acredito que minha base sólida em programação, aliada ao meu conhecimento em infraestrutura, me dá uma perspectiva única para entender como as aplicações funcionam e como protegê-las.
 
 ## 💡 Sobre mim
 
-- 💻 Amo tudo que envolve tecnologia
-- 📚 Estou estudando lógica de programação e dando meus primeiros passos na área
-- 🌱 Sempre em busca de aprender mais e me desenvolver como programador
-- ⚙️ Estou construindo projetos simples para praticar e fixar o conhecimento
+- 🛡️ Focado nos estudos de **Cibersegurança** e segurança ofensiva.
+- 💻 Possuo background profissional em desenvolvimento e infraestrutura.
+- 🕵️‍♂️ Dedicando meu tempo a aprender novas ferramentas de segurança, explorar vulnerabilidades e entender a fundo redes e sistemas.
+- ⚙️ Estou construindo projetos para praticar e fixar o conhecimento
 
 
-### 💻 Tecnologias e Ferramentas
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+### 💻 Linguagens e Desenvolvimento
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Infraestrutura e Banco de Dados
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Entre em contato
 
