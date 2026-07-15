@@ -27,16 +27,6 @@ Com experiência prévia atuando no desenvolvimento de software e também com in
 
 ## 📫 Entre em contato
 
-<div>
-<a href="https://www.linkedin.com/in/alysson-lunardon-03a71023a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-lunardon)
 
 Sinta-se à vontade para me chamar para trocar ideias, compartilhar experiências ou apenas bater um papo sobre programação e tecnologia!
-
----
-
-<div>
-<a href="https://github.com/Alysson-Lunardon">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Lunardon&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Lunardon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
